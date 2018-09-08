@@ -1,0 +1,640 @@
+{
+  "meetups" : {
+    "-LAkwUjyXeJKSPlXfhtr" : {
+      "creatorId" : "AbajbR6NmheGUxalVji8IECPZAB2",
+      "date" : "2018-04-23T05:18:54.256Z",
+      "description" : "aracaju",
+      "imageUrl" : "https://1.bp.blogspot.com/-o5Q71DMXLEc/Tz58mUgjuKI/AAAAAAAAQWA/-UtG2lKeI8A/s1600/mapa-aracaju.jpg",
+      "location" : "Aracaju",
+      "title" : "Flash mob"
+    },
+    "-LAq4tzOypAUYyf8NAB3" : {
+      "creatorId" : "AbajbR6NmheGUxalVji8IECPZAB2",
+      "date" : "2018-04-29T20:30:00.000Z",
+      "description" : "asasasasa",
+      "imageUrl" : "http://www.surfbahia.com.br/midia/arquivosGerenciador/images/Competicao/IMG-20180305-WA0054.jpg",
+      "location" : "Cinelandia",
+      "title" : "Arrastao"
+    },
+    "-LBwm2ixh8pd-yBfAEnH" : {
+      "creatorId" : "dWaiAYYUTScn1FVxXSCj8EQiwuO2",
+      "date" : "2018-05-07T17:13:51.693Z",
+      "description" : "Chama no dukenuke",
+      "imageUrl" : "data:image/jpeg;base64,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",
+      "location" : "Rua duke de caixinhgas",
+      "title" : "gamejam"
+    },
+    "-LCSSHsN9noC5ywHLVFW" : {
+      "creatorId" : "mDriYC0MQ2f8O23o4zDRWqxvmAO2",
+      "date" : "2018-05-14T07:01:25.261Z",
+      "description" : "asdasdasda",
+      "imageUrl" : "https://conteudo.imguol.com.br/c/noticias/e1/2018/03/09/5mar2018---o-coordenador-nacional-do-mtst-movimento-dos-trabalhadores-sem-teto-e-pre-candidato-a-presidencia-da-republica-guilherme-boulos-se-filia-oficialmente-ao-psol-1520650599460_615x300.jpg",
+      "location" : "UFS",
+      "title" : "Boulosmito"
+    },
+    "-LCSci_Fi33eI_4Nlnri" : {
+      "creatorId" : "mDriYC0MQ2f8O23o4zDRWqxvmAO2",
+      "date" : "2018-05-14T18:13:41.082Z",
+      "description" : "Galera de peão ",
+      "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFeoWAosPaejWmjj-wUNNW7CWpk_slzjcf3oSq3KLB1mJ9fyY",
+      "location" : "Atalaia Nova",
+      "title" : "Galera de Cowboy"
+    }
+  },
+  "partidas" : {
+    "-LCVczmZPXRjMVgoUNgo" : {
+      "data" : "20/06",
+      "grupo" : "A",
+      "hora" : "12:00",
+      "t1nome" : "Arábia Saudita",
+      "t2nome" : "Uruguai",
+      "time1id" : "-LC7mvv8sU95C68DFa6b",
+      "time2id" : "-LC7mvv95Mu5HJkRPkY2"
+    },
+    "-LCVczm_xlGb8RF_RAe9" : {
+      "data" : "19/06",
+      "grupo" : "A",
+      "hora" : "15:00",
+      "t1nome" : "Egito",
+      "t2nome" : "Rússia",
+      "time1id" : "-LC7mvv5sws3UjOZVR8i",
+      "time2id" : "-LC7mvv8sU95C68DFa6a"
+    },
+    "-LCVczmawM2P4jNYk7aI" : {
+      "data" : "25/06",
+      "grupo" : "A",
+      "hora" : "11:00",
+      "t1nome" : "Egito",
+      "t2nome" : "Arábia Saudita",
+      "time1id" : "-LC7mvv5sws3UjOZVR8i",
+      "time2id" : "-LC7mvv8sU95C68DFa6b"
+    },
+    "-LCVczmawM2P4jNYk7aJ" : {
+      "data" : "25/06",
+      "grupo" : "A",
+      "hora" : "11:00",
+      "t1nome" : "Rússia",
+      "t2nome" : "Uruguai",
+      "time1id" : "-LC7mvv8sU95C68DFa6a",
+      "time2id" : "-LC7mvv95Mu5HJkRPkY2"
+    },
+    "-LCVczmbBathC_YSM69F" : {
+      "data" : "15/06",
+      "grupo" : "A",
+      "hora" : "11:00",
+      "t1nome" : "Egito",
+      "t2nome" : "Uruguai",
+      "time1id" : "-LC7mvv5sws3UjOZVR8i",
+      "time2id" : "-LC7mvv95Mu5HJkRPkY2"
+    },
+    "-LCVczmcIh0YHLpcYfIs" : {
+      "data" : "14/06",
+      "grupo" : "A",
+      "hora" : "12:00",
+      "t1nome" : "Rússia",
+      "t2nome" : "Arábia Saudita",
+      "time1id" : "-LC7mvv8sU95C68DFa6a",
+      "time2id" : "-LC7mvv8sU95C68DFa6b"
+    },
+    "-LCVczmdu5M5hYX5_6PT" : {
+      "data" : "15/06",
+      "grupo" : "B",
+      "hora" : "15:00",
+      "t1nome" : "Portugal",
+      "t2nome" : "Espanha",
+      "time1id" : "-LCAE-c_zpVd1WbaSL7E",
+      "time2id" : "-LCAE-c_zpVd1WbaSL7F"
+    },
+    "-LCVczmdu5M5hYX5_6PU" : {
+      "data" : "15/06",
+      "grupo" : "B",
+      "hora" : "12:00",
+      "t1nome" : "Irã",
+      "t2nome" : "Marrocos",
+      "time1id" : "-LCAE-cVlWgUuJq3MOET",
+      "time2id" : "-LCAE-cZQHvWy8jx5aX8"
+    },
+    "-LCVczme6fmWWkmlohYA" : {
+      "data" : "25/06",
+      "grupo" : "B",
+      "hora" : "15:00",
+      "t1nome" : "Irã",
+      "t2nome" : "Portugal",
+      "time1id" : "-LCAE-cVlWgUuJq3MOET",
+      "time2id" : "-LCAE-c_zpVd1WbaSL7E"
+    },
+    "-LCVczmf3EXU9H8YeRso" : {
+      "data" : "25/06",
+      "grupo" : "B",
+      "hora" : "15:00",
+      "t1nome" : "Marrocos",
+      "t2nome" : "Espanha",
+      "time1id" : "-LCAE-cZQHvWy8jx5aX8",
+      "time2id" : "-LCAE-c_zpVd1WbaSL7F"
+    },
+    "-LCVczmgaFxNHwnwkSqj" : {
+      "data" : "20/06",
+      "grupo" : "B",
+      "hora" : "15:00",
+      "t1nome" : "Irã",
+      "t2nome" : "Espanha",
+      "time1id" : "-LCAE-cVlWgUuJq3MOET",
+      "time2id" : "-LCAE-c_zpVd1WbaSL7F"
+    },
+    "-LCVczmjTNVqrLunGlEO" : {
+      "data" : "20/06",
+      "grupo" : "B",
+      "hora" : "9:00",
+      "t1nome" : "Marrocos",
+      "t2nome" : "Portugal",
+      "time1id" : "-LCAE-cZQHvWy8jx5aX8",
+      "time2id" : "-LCAE-c_zpVd1WbaSL7E"
+    },
+    "-LCVczmjTNVqrLunGlEP" : {
+      "data" : "21/06",
+      "grupo" : "C",
+      "hora" : "12:00",
+      "t1nome" : "França",
+      "t2nome" : "Peru",
+      "time1id" : "-LCAHvhKCq4cDeOsyhQS",
+      "time2id" : "-LCAHvhL78Q_a3zZHueC"
+    },
+    "-LCVczmkGeRrZFBODeaZ" : {
+      "data" : "21/06",
+      "grupo" : "C",
+      "hora" : "09:00",
+      "t1nome" : "Austrália",
+      "t2nome" : "Dinamarca",
+      "time1id" : "-LCAHvhIOAN0y_YqVYGd",
+      "time2id" : "-LCAHvhKCq4cDeOsyhQR"
+    },
+    "-LCVczmliP4tJvDmQCPR" : {
+      "data" : "16/06",
+      "grupo" : "C",
+      "hora" : "7:00",
+      "t1nome" : "Austrália",
+      "t2nome" : "França",
+      "time1id" : "-LCAHvhIOAN0y_YqVYGd",
+      "time2id" : "-LCAHvhKCq4cDeOsyhQS"
+    },
+    "-LCVczmliP4tJvDmQCPS" : {
+      "data" : "16/06",
+      "grupo" : "C",
+      "hora" : "13:00",
+      "t1nome" : "Dinamarca",
+      "t2nome" : "Peru",
+      "time1id" : "-LCAHvhKCq4cDeOsyhQR",
+      "time2id" : "-LCAHvhL78Q_a3zZHueC"
+    },
+    "-LCVczmmG95rxLVjyOe7" : {
+      "data" : "26/06",
+      "grupo" : "C",
+      "hora" : "11:00",
+      "t1nome" : "Austrália",
+      "t2nome" : "Peru",
+      "time1id" : "-LCAHvhIOAN0y_YqVYGd",
+      "time2id" : "-LCAHvhL78Q_a3zZHueC"
+    },
+    "-LCVczmnEN7xDVK6_n13" : {
+      "data" : "26/06",
+      "grupo" : "C",
+      "hora" : "11:00",
+      "t1nome" : "Dinamarca",
+      "t2nome" : "França",
+      "time1id" : "-LCAHvhKCq4cDeOsyhQR",
+      "time2id" : "-LCAHvhKCq4cDeOsyhQS"
+    },
+    "-LCVczmo5KKYP9eGrzh1" : {
+      "data" : "22/06",
+      "grupo" : "D",
+      "hora" : "12:00",
+      "t1nome" : "Islândia",
+      "t2nome" : "Nigéria",
+      "time1id" : "-LCAIO3wnuJ-xoaYnau7",
+      "time2id" : "-LCAIO3wnuJ-xoaYnau8"
+    },
+    "-LCVczmpBQmlWNCDFNLp" : {
+      "data" : "21/06",
+      "grupo" : "D",
+      "hora" : "15:00",
+      "t1nome" : "Argentina",
+      "t2nome" : "Croácia",
+      "time1id" : "-LCAIO3uK3Yu6LpejYIb",
+      "time2id" : "-LCAIO3vMDN_CuLfbTy4"
+    },
+    "-LCVczmq8rfQZvxyTCJN" : {
+      "data" : "",
+      "grupo" : "D",
+      "hora" : "",
+      "t1nome" : "Argentina",
+      "t2nome" : "Islândia",
+      "time1id" : "-LCAIO3uK3Yu6LpejYIb",
+      "time2id" : "-LCAIO3wnuJ-xoaYnau7"
+    },
+    "-LCVczmr_vwsP5pwpuut" : {
+      "data" : "",
+      "grupo" : "D",
+      "hora" : "",
+      "t1nome" : "Croácia",
+      "t2nome" : "Nigéria",
+      "time1id" : "-LCAIO3vMDN_CuLfbTy4",
+      "time2id" : "-LCAIO3wnuJ-xoaYnau8"
+    },
+    "-LCVczmuS_dbI-Wa2xSr" : {
+      "data" : "",
+      "grupo" : "D",
+      "hora" : "",
+      "t1nome" : "Argentina",
+      "t2nome" : "Nigéria",
+      "time1id" : "-LCAIO3uK3Yu6LpejYIb",
+      "time2id" : "-LCAIO3wnuJ-xoaYnau8"
+    },
+    "-LCVczmuS_dbI-Wa2xSs" : {
+      "data" : "",
+      "grupo" : "D",
+      "hora" : "",
+      "t1nome" : "Croácia",
+      "t2nome" : "Islândia",
+      "time1id" : "-LCAIO3vMDN_CuLfbTy4",
+      "time2id" : "-LCAIO3wnuJ-xoaYnau7"
+    },
+    "-LCVczmxYCsDoB0LdMtf" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Sérvia",
+      "t2nome" : "Suiça",
+      "time1id" : "-LCAIj46Yu3M-Ruv0GKm",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKn"
+    },
+    "-LCVczmyTGmI29mqBJv4" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Brasil",
+      "t2nome" : "Costa Rica",
+      "time1id" : "-LCAIj452rxw7VEehUkS",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKl"
+    },
+    "-LCVczmyTGmI29mqBJv5" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Brasil",
+      "t2nome" : "Sérvia",
+      "time1id" : "-LCAIj452rxw7VEehUkS",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKm"
+    },
+    "-LCVczn-rVDO6HUqYl3S" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Costa Rica",
+      "t2nome" : "Suiça",
+      "time1id" : "-LCAIj46Yu3M-Ruv0GKl",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKn"
+    },
+    "-LCVczn-rVDO6HUqYl3T" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Brasil",
+      "t2nome" : "Suiça",
+      "time1id" : "-LCAIj452rxw7VEehUkS",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKn"
+    },
+    "-LCVczn0L5iClI9wjvNG" : {
+      "data" : "",
+      "grupo" : "E",
+      "hora" : "",
+      "t1nome" : "Costa Rica",
+      "t2nome" : "Sérvia",
+      "time1id" : "-LCAIj46Yu3M-Ruv0GKl",
+      "time2id" : "-LCAIj46Yu3M-Ruv0GKm"
+    },
+    "-LCVczn0L5iClI9wjvNH" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "México",
+      "t2nome" : "Suécia",
+      "time1id" : "-LCAJ4G43ODBzZ3iAShn",
+      "time2id" : "-LCAJ4G6TIbtVRICcNWd"
+    },
+    "-LCVczn1eOnd02kgqnX5" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "Alemanha",
+      "t2nome" : "Coreia do Sul",
+      "time1id" : "-LCAJ4G3hwHSXRWtuvqM",
+      "time2id" : "-LCAJ4G3hwHSXRWtuvqN"
+    },
+    "-LCVczn2HJzKjTIrm3ZE" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "Alemanha",
+      "t2nome" : "México",
+      "time1id" : "-LCAJ4G3hwHSXRWtuvqM",
+      "time2id" : "-LCAJ4G43ODBzZ3iAShn"
+    },
+    "-LCVczn2HJzKjTIrm3ZF" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "Coreia do Sul",
+      "t2nome" : "Suécia",
+      "time1id" : "-LCAJ4G3hwHSXRWtuvqN",
+      "time2id" : "-LCAJ4G6TIbtVRICcNWd"
+    },
+    "-LCVczn3vS3X3om3KUEG" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "Alemanha",
+      "t2nome" : "Suécia",
+      "time1id" : "-LCAJ4G3hwHSXRWtuvqM",
+      "time2id" : "-LCAJ4G6TIbtVRICcNWd"
+    },
+    "-LCVczn3vS3X3om3KUEH" : {
+      "data" : "",
+      "grupo" : "F",
+      "hora" : "",
+      "t1nome" : "Coreia do Sul",
+      "t2nome" : "México",
+      "time1id" : "-LCAJ4G3hwHSXRWtuvqN",
+      "time2id" : "-LCAJ4G43ODBzZ3iAShn"
+    },
+    "-LCVczn4JkCmCeOhbnYN" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Panamá",
+      "t2nome" : "Tunísia",
+      "time1id" : "-LCAJWu-HiLr-HQ4pIbj",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbk"
+    },
+    "-LCVczn4JkCmCeOhbnYO" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Bélgica",
+      "t2nome" : "Inglaterra",
+      "time1id" : "-LCAJWtx_OK74VeSoM20",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbi"
+    },
+    "-LCVczn5iHHDfrWIDHhf" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Bélgica",
+      "t2nome" : "Panamá",
+      "time1id" : "-LCAJWtx_OK74VeSoM20",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbj"
+    },
+    "-LCVczn5iHHDfrWIDHhg" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Inglaterra",
+      "t2nome" : "Tunísia",
+      "time1id" : "-LCAJWu-HiLr-HQ4pIbi",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbk"
+    },
+    "-LCVczn6t3Z3LWliGFzQ" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Bélgica",
+      "t2nome" : "Tunísia",
+      "time1id" : "-LCAJWtx_OK74VeSoM20",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbk"
+    },
+    "-LCVczn8B0Y9gzUeBoU6" : {
+      "data" : "",
+      "grupo" : "G",
+      "hora" : "",
+      "t1nome" : "Inglaterra",
+      "t2nome" : "Panamá",
+      "time1id" : "-LCAJWu-HiLr-HQ4pIbi",
+      "time2id" : "-LCAJWu-HiLr-HQ4pIbj"
+    },
+    "-LCVczn8B0Y9gzUeBoU7" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Polônia",
+      "t2nome" : "Senegal",
+      "time1id" : "-LCAJrFHDtiGUrqsTNcL",
+      "time2id" : "-LCAJrFIPYDx9wAplOth"
+    },
+    "-LCVcznAhbO2U93I68O_" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Colômbia",
+      "t2nome" : "Japão",
+      "time1id" : "-LCAJrFGqt6o1bxfYXEg",
+      "time2id" : "-LCAJrFHDtiGUrqsTNcK"
+    },
+    "-LCVcznAhbO2U93I68Oa" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Colômbia",
+      "t2nome" : "Polônia",
+      "time1id" : "-LCAJrFGqt6o1bxfYXEg",
+      "time2id" : "-LCAJrFHDtiGUrqsTNcL"
+    },
+    "-LCVcznBDlU1e-pSRKKn" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Japão",
+      "t2nome" : "Senegal",
+      "time1id" : "-LCAJrFHDtiGUrqsTNcK",
+      "time2id" : "-LCAJrFIPYDx9wAplOth"
+    },
+    "-LCVcznBDlU1e-pSRKKo" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Colômbia",
+      "t2nome" : "Senegal",
+      "time1id" : "-LCAJrFGqt6o1bxfYXEg",
+      "time2id" : "-LCAJrFIPYDx9wAplOth"
+    },
+    "-LCVcznBDlU1e-pSRKKp" : {
+      "data" : "",
+      "grupo" : "H",
+      "hora" : "",
+      "t1nome" : "Japão",
+      "t2nome" : "Polônia",
+      "time1id" : "-LCAJrFHDtiGUrqsTNcK",
+      "time2id" : "-LCAJrFHDtiGUrqsTNcL"
+    }
+  },
+  "times" : {
+    "-LC7mvv5sws3UjOZVR8i" : {
+      "grupo" : "A",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fegito.png?alt=media&token=2cd0f67a-5c6c-49c7-95cd-6f0b7f60c9a4",
+      "nome" : "Egito"
+    },
+    "-LC7mvv8sU95C68DFa6a" : {
+      "grupo" : "A",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Frussia.png?alt=media&token=fac5c120-2ad1-4b5f-ac74-189d02581254",
+      "nome" : "Rússia"
+    },
+    "-LC7mvv8sU95C68DFa6b" : {
+      "grupo" : "A",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Farabia.png?alt=media&token=bd495d4a-575f-4ea2-b5e5-f115350aed02",
+      "nome" : "Arábia Saudita"
+    },
+    "-LC7mvv95Mu5HJkRPkY2" : {
+      "grupo" : "A",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Furuguai.png?alt=media&token=f931a2d9-83ed-455f-bee6-f2504b4b9e51",
+      "nome" : "Uruguai"
+    },
+    "-LCAE-cVlWgUuJq3MOET" : {
+      "grupo" : "B",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fira.png?alt=media&token=e5069733-6811-460d-9408-14957aa173e0",
+      "nome" : "Irã"
+    },
+    "-LCAE-cZQHvWy8jx5aX8" : {
+      "grupo" : "B",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fmarrocos.png?alt=media&token=df81c912-3868-4483-99ba-5332b35794c0",
+      "nome" : "Marrocos"
+    },
+    "-LCAE-c_zpVd1WbaSL7E" : {
+      "grupo" : "B",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fportugal.png?alt=media&token=c86f4a57-d26b-4af7-9bbf-b0188fa099b1",
+      "nome" : "Portugal"
+    },
+    "-LCAE-c_zpVd1WbaSL7F" : {
+      "grupo" : "B",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fespanha.png?alt=media&token=cfb0b4c5-2ea7-4dbc-acf8-fadd9a4c012a",
+      "nome" : "Espanha"
+    },
+    "-LCAHvhIOAN0y_YqVYGd" : {
+      "grupo" : "C",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Faustralia.png?alt=media&token=b0801fc3-ab2a-47ef-9a86-209c51c4a7fb",
+      "nome" : "Austrália"
+    },
+    "-LCAHvhKCq4cDeOsyhQR" : {
+      "grupo" : "C",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fdinamarca.png?alt=media&token=7f20c698-fe01-441d-a657-dfbbccbf82af",
+      "nome" : "Dinamarca"
+    },
+    "-LCAHvhKCq4cDeOsyhQS" : {
+      "grupo" : "C",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Ffranca.png?alt=media&token=01112502-1049-41ab-9d01-8bc3acb95ef7",
+      "nome" : "França"
+    },
+    "-LCAHvhL78Q_a3zZHueC" : {
+      "grupo" : "C",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fperu.png?alt=media&token=59ec28c8-8920-4972-8886-b093bd89a799",
+      "nome" : "Peru"
+    },
+    "-LCAIO3uK3Yu6LpejYIb" : {
+      "grupo" : "D",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fargentina.png?alt=media&token=1e687580-f199-4553-84eb-ef72b3afd393",
+      "nome" : "Argentina"
+    },
+    "-LCAIO3vMDN_CuLfbTy4" : {
+      "grupo" : "D",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fcroacia.png?alt=media&token=80690c2f-d8c2-4754-ab01-2b2c3c686163",
+      "nome" : "Croácia"
+    },
+    "-LCAIO3wnuJ-xoaYnau7" : {
+      "grupo" : "D",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fislandia.png?alt=media&token=b239cf52-babe-49d8-9b1c-e4e176b39462",
+      "nome" : "Islândia"
+    },
+    "-LCAIO3wnuJ-xoaYnau8" : {
+      "grupo" : "D",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fnigeria.png?alt=media&token=7968edc4-286b-4314-9a20-533a103a027d",
+      "nome" : "Nigéria"
+    },
+    "-LCAIj452rxw7VEehUkS" : {
+      "grupo" : "E",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fbrasil.png?alt=media&token=a9a8d5d5-e243-4682-901b-9d428ce54dcb",
+      "nome" : "Brasil"
+    },
+    "-LCAIj46Yu3M-Ruv0GKl" : {
+      "grupo" : "E",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fcostarica.png?alt=media&token=e9bee728-f6ee-45be-8b1a-aab9e4b0cf02",
+      "nome" : "Costa Rica"
+    },
+    "-LCAIj46Yu3M-Ruv0GKm" : {
+      "grupo" : "E",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fservia.png?alt=media&token=3edf0d37-02df-4420-a48b-da6010958982",
+      "nome" : "Sérvia"
+    },
+    "-LCAIj46Yu3M-Ruv0GKn" : {
+      "grupo" : "E",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fsuica.png?alt=media&token=ea5de951-e971-419e-8e2b-f664ee2268de",
+      "nome" : "Suiça"
+    },
+    "-LCAJ4G3hwHSXRWtuvqM" : {
+      "grupo" : "F",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Falemanha.png?alt=media&token=9a24e84b-0c69-4b72-a41b-909c3b995737",
+      "nome" : "Alemanha"
+    },
+    "-LCAJ4G3hwHSXRWtuvqN" : {
+      "grupo" : "F",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fcoreiadosul.png?alt=media&token=1d31e718-3651-417d-9c26-bf2de64652fa",
+      "nome" : "Coreia do Sul"
+    },
+    "-LCAJ4G43ODBzZ3iAShn" : {
+      "grupo" : "F",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fmexico.png?alt=media&token=c07134a5-5161-4019-8077-0010d31d9f0b",
+      "nome" : "México"
+    },
+    "-LCAJ4G6TIbtVRICcNWd" : {
+      "grupo" : "F",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fsuecia.png?alt=media&token=83dec184-7714-4e8e-995b-50e21a655a89",
+      "nome" : "Suécia"
+    },
+    "-LCAJWtx_OK74VeSoM20" : {
+      "grupo" : "G",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fbelgica.png?alt=media&token=122956d6-71a3-4bbc-8726-e3312c1eb4a0",
+      "nome" : "Bélgica"
+    },
+    "-LCAJWu-HiLr-HQ4pIbi" : {
+      "grupo" : "G",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Finglaterra.png?alt=media&token=b03a671d-1ea9-453b-be4a-71e3b5abc704",
+      "nome" : "Inglaterra"
+    },
+    "-LCAJWu-HiLr-HQ4pIbj" : {
+      "grupo" : "G",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fpanama.png?alt=media&token=602d8fd5-697a-4eb3-8845-7eb83ce2a063",
+      "nome" : "Panamá"
+    },
+    "-LCAJWu-HiLr-HQ4pIbk" : {
+      "grupo" : "G",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Ftunisia.png?alt=media&token=008cc227-0094-40ae-b695-bdf3e51de314",
+      "nome" : "Tunísia"
+    },
+    "-LCAJrFGqt6o1bxfYXEg" : {
+      "grupo" : "H",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fcolombia.png?alt=media&token=e6196a96-401c-4d24-82c3-98632f9fede7",
+      "nome" : "Colômbia"
+    },
+    "-LCAJrFHDtiGUrqsTNcK" : {
+      "grupo" : "H",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fjapao.png?alt=media&token=25e13c4f-02a7-4b71-a2b6-174330cd901a",
+      "nome" : "Japão"
+    },
+    "-LCAJrFHDtiGUrqsTNcL" : {
+      "grupo" : "H",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fpolonia.png?alt=media&token=11a47d26-1770-4b68-ad37-66e6175135fa",
+      "nome" : "Polônia"
+    },
+    "-LCAJrFIPYDx9wAplOth" : {
+      "grupo" : "H",
+      "imgurl" : "https://firebasestorage.googleapis.com/v0/b/yt-dev-meetup-6a846.appspot.com/o/flags%2Fsenegal.png?alt=media&token=e8496a9b-027a-4149-86fc-87473030a5d2",
+      "nome" : "Senegal"
+    }
+  }
+}
